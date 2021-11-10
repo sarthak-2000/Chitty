@@ -1,4 +1,4 @@
-# Web Speech AI Bot
+# Chitty (Web Speech AI Bot)
 
 > This is a simple AI bot made with nodejs, web speech api and [dialogflow](https://dialogflow.cloud.google.com/#/getStarted)
 
